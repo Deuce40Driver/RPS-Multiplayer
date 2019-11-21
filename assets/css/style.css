@@ -1,0 +1,14 @@
+body {
+  background-image: url("../images/RPS-wood-background.jpg");
+  background-size: 100%
+}
+
+.card {
+  width: 100%;
+  border-width: 2px;
+  text-align: center
+}
+
+#play1-name {
+  text-align: center
+}
